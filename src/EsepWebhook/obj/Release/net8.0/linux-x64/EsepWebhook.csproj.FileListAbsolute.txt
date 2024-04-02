@@ -24,3 +24,13 @@
 /Users/a993/Desktop/esep-webhooks/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.dll
 /Users/a993/Desktop/esep-webhooks/src/EsepWebhook/obj/Release/net8.0/linux-x64/refint/EsepWebhook.dll
 /Users/a993/Desktop/esep-webhooks/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.pdb
+/Users/a993/Desktop/esep-webhooks/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.deps.json
+/Users/a993/Desktop/esep-webhooks/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.runtimeconfig.json
+/Users/a993/Desktop/esep-webhooks/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.dll
+/Users/a993/Desktop/esep-webhooks/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.pdb
+/Users/a993/Desktop/esep-webhooks/src/EsepWebhook/bin/Release/net8.0/linux-x64/Amazon.Lambda.Core.dll
+/Users/a993/Desktop/esep-webhooks/src/EsepWebhook/bin/Release/net8.0/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/a993/Desktop/esep-webhooks/src/EsepWebhook/bin/Release/net8.0/linux-x64/Newtonsoft.Json.dll
+/Users/a993/Desktop/esep-webhooks/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebh.2DAAD0C6.Up2Date
+/Users/a993/Desktop/esep-webhooks/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.genruntimeconfig.cache
+/Users/a993/Desktop/esep-webhooks/src/EsepWebhook/obj/Release/net8.0/linux-x64/ref/EsepWebhook.dll
