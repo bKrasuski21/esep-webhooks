@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/a993/kms/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj": {}
+    "/Users/a993/Desktop/esep-webhooks/src/EsepWebhook/EsepWebhook.csproj": {}
   },
   "projects": {
-    "/Users/a993/kms/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj": {
+    "/Users/a993/Desktop/esep-webhooks/src/EsepWebhook/EsepWebhook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/a993/kms/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+        "projectUniqueName": "/Users/a993/Desktop/esep-webhooks/src/EsepWebhook/EsepWebhook.csproj",
         "projectName": "EsepWebhook",
-        "projectPath": "/Users/a993/kms/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+        "projectPath": "/Users/a993/Desktop/esep-webhooks/src/EsepWebhook/EsepWebhook.csproj",
         "packagesPath": "/Users/a993/.nuget/packages/",
-        "outputPath": "/Users/a993/kms/EsepWebhook/src/EsepWebhook/obj/",
+        "outputPath": "/Users/a993/Desktop/esep-webhooks/src/EsepWebhook/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/a993/.nuget/NuGet/NuGet.Config"
@@ -50,6 +50,10 @@
             "Amazon.Lambda.Serialization.SystemTextJson": {
               "target": "Package",
               "version": "[2.4.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
